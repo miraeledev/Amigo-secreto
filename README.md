@@ -1,1 +1,1 @@
-# numero-secreto
+# Amigo-secreto
